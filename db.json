@@ -1,0 +1,9 @@
+{
+  "mail": [
+    {
+      "from": "hans@example.com",
+      "to": "msg@go.com",
+      "message": "Hello world!"
+    }
+  ]
+}
